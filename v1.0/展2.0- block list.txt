@@ -1,0 +1,56 @@
+This is a list of blocks, there is a known issue with variants, all blocks are reported as minecraft stores them
+waxed_chiseled_copper: 15
+tuff_bricks: 111
+Basalt: 1063
+Chiseled Deepslate: 39
+Crimson Trapdoor: 300
+Red Carpet: 193
+Deepslate Tiles: 235
+Red Nether Brick: 725
+tuff_brick_slab: 4
+Polished Blackstone Brick Stairs: 80
+Blackstone Brick: 208
+Polished Basalt: 145
+red_nether_brick_slab: 90
+Blackstone: 2019
+Waxed Cut Copper: 2
+Nether Brick Fence: 40
+Shroomlight: 523
+Tiled Deepslate Slab: 357
+Polished Blackstone Brick Slab: 38
+Magma: 120
+Tiled Deepslate Stairs: 222
+Gilded Blackstone: 536
+Red Wool: 62
+Red Nether Brick Stairs: 146
+Decorated Pot: 17
+Nether Wart Block: 34
+Soul Soil: 686
+Soul Sand: 168
+quartz_slab: 59
+Weeping Vines: 408
+Fire: 63
+Mob Head: 30
+Chains: 183
+Lantern: 2
+Bone Block: 170
+Quartz Stairs: 8
+nether_brick_slab: 120
+Polished Blackstone Button: 28
+Smooth Quartz Stairs: 112
+Polished Blackstone Pressure Plate: 28
+Soul Lantern: 15
+Stone Button: 48
+Chiseled Nether Brick: 28
+Obsidian: 128
+Stone Pressure Plate: 6
+Iron Bars: 52
+Polished Deepslate: 100
+Orange Stained Glass: 24
+Crimson Stairs: 16
+Blackstone Slab: 22
+Lodestone: 2
+Polished Deepslate Stairs: 46
+blackstone_stairs: 6
+Gold Block: 3
+chiseled_tuff_bricks: 2
